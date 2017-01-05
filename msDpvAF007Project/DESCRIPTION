@@ -1,0 +1,18 @@
+Package: msDpvAF007Project
+Type: Package
+Title: jd crawl variable computer
+Version: 1.0
+Author: msxf-data
+Maintainer: <yingkun.li@msxf.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+Imports:
+  dplyr (>= 0.5.0),
+  entropy (>= 1.2.1),
+  lubridate (>= 1.6.0),
+  stringr (<= 1.0.0),
+  parallel (>= 3.3.0),
+  tidyr (>= 0.6.0),
+  RCurl (>= 1.95-4.8),
+  rjson (>= 0.2.15)
